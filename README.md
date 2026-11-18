@@ -8,9 +8,9 @@
 
 ## Скачать
 
-[**Скачать «Поток» 1.6.0 для Windows x64**](https://github.com/whiterli/potok-downloads/releases/download/v1.6.0/Potok-1.6.0.exe)
+[**Скачать «Поток» 1.7.0 для Windows x64**](https://github.com/whiterli/potok-downloads/releases/download/v1.7.0/Potok-1.7.0.exe)
 
-Для скачивания аккаунт GitHub не нужен. Откройте `Potok-1.6.0.exe` из папки «Загрузки». Программа запускается без установки.
+Для скачивания аккаунт GitHub не нужен. Откройте `Potok-1.7.0.exe` из папки «Загрузки». Программа запускается без установки.
 
 ## Попробовать
 
